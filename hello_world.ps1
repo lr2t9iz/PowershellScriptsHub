@@ -1,6 +1,6 @@
 # Hello World -> Testing
 
-Write-Host "Hello World"
+Write-Host "hello_world"
 $date = Get-Date
 
 Write-Host $date
